@@ -1,0 +1,5 @@
+NAME=Nébuleuse GNU/Linux
+VERSION=2024.05-52-g876d24578c
+ID=nebuleuse
+VERSION_ID=2024.08-git
+PRETTY_NAME="Nébuleuse GNU/Linux 2024.08-git"
